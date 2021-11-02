@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\Project1\Source.cpp(69,90): warning C4305: аргумент: усечение из "double" в "T2"
+          with
+          [
+              T2=float
+          ]
+  Project1.vcxproj -> C:\Users\User\Desktop\Project1\Debug\Project1.exe
